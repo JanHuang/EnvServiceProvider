@@ -1,0 +1,17 @@
+{
+    "name": "fastd/env-service-provider",
+    "authors": [
+        {
+            "name": "JanHuang",
+            "email": "bboyjanhuang@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "ServiceProvider\\EnvServiceProvider\\": ""
+        }
+    }
+}
